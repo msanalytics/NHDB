@@ -48,17 +48,17 @@
         cases and population are captured so that the nursing homes can be compared to the status of the county. 
       </p>
 <li><a href="https://msanalytics.github.io/NHDB/UserStory1.html">Shift in Resident Issues over Time</a></li>
-      </p>
+      
 <p>This visualization is meant to show the top nursing homes experiencing problems within a certain category as of the most recent date. Issues include 
     resident/staff admissions,cases,deaths, etc.
       </p>
 <li><a href="https://msanalytics.github.io/NHDB/UserStory3.html">Top Nursing Homes Experiencing Issues</a></li>
-      </p>
-    This visualization is meant to display staff and resident issues in comparision to staff shortages and personal protective equipment availability.
+      
+<p>This visualization is meant to display staff and resident issues in comparision to staff shortages and personal protective equipment availability.
       </p>
 <li><a href="https://msanalytics.github.io/NHDB/UserStory4.html">Timeline of Resident and Staff Issues with Safety Indicators</a></li>
-      </p>
-    This visualization is meant to view the changes in total resident cases and compare the nursing homes' 2020 and 2021 performance side by side.
+      
+ </p>This visualization is meant to view the changes in total resident cases and compare the nursing homes' 2020 and 2021 performance side by side.
       </p>
 <li><a href="https://msanalytics.github.io/NHDB/UserStory8.html">Total Resident COVID-19 Case Trends between 2020 and 2021</a></li>
 </ul>
