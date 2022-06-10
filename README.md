@@ -7,7 +7,7 @@
 </style>
 <body>
 
-<h1>Covid-19 Nursing Home Project</h1>
+<h1>COVID-19 Nursing Home Project</h1>
 
 
 <h2>Background </h2>
