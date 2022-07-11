@@ -50,7 +50,7 @@
 <li><a href="https://msanalytics.github.io/NHDB/UserStory1.html">Shift in COVID-19 cases over time</a></li></p>
  
 <p>This visualization is meant to show vaccination rates in nursing homes split by residences and staff.
-<li><a href="https://msanalytics.github.io/NHDB/UserStory3.html">Nursing home resident and staff vaccinations rates.</a></li></p>
+<li><a href="https://msanalytics.github.io/NHDB/UserStory3.html">Nursing home resident and staff vaccinations rates</a></li></p>
 
 
 </body>
