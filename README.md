@@ -53,7 +53,4 @@
 <li><a href="https://msanalytics.github.io/NHDB/UserStory3.html">Nursing home resident and staff vaccinations rates</a></li></p>
 
 
-</body>
 
-
-</html>
