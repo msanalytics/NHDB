@@ -43,22 +43,15 @@
 <h2>Visualizations</h2>
 <br>
 <ul>
- <p>For all of the visualizations below, we use data over a period of 62 weeks starting from May 24, 2020 to July 18, 2021.</p>
+ <p>For all of the visualizations below, we use data starting from May 30, 2020 to June 19, 2022.</p>
       
-<p>This visualization is meant to capture resident issues such as admissions, cases, and deaths. Furthermore, county statistics such as total
-cases and population are captured so that the nursing homes can be compared to the status of the county.
-<li><a href="https://msanalytics.github.io/NHDB/UserStory1.html">Shift in Resident Issues over Time</a></li></p>
+<p>This visualization is meant to show resident issues in nursing homes including weekly admissions, cases, and deaths. It also shows county information
+ including population, cases and deaths for comparison.
+<li><a href="https://msanalytics.github.io/NHDB/UserStory1.html">Shift in COVID-19 cases over time</a></li></p>
  
-<p>This visualization is meant to show the top nursing homes experiencing problems within a certain category as of the most recent date. Issues include 
-resident/staff admissions,cases,deaths, etc.
-<li><a href="https://msanalytics.github.io/NHDB/UserStory3.html">Top Nursing Homes Experiencing Issues</a></li></p>
+<p>This visualization is meant to show vaccination rates in nursing homes split by residences and staff.
+<li><a href="https://msanalytics.github.io/NHDB/UserStory3.html">Nursing home resident and staff vaccinations rates.</a></li></p>
 
-<p>This visualization is meant to display staff and resident issues in comparision to staff shortages and personal protective equipment availability. 
-<li><a href="https://msanalytics.github.io/NHDB/UserStory4.html">Timeline of Resident and Staff Issues with Safety Indicators</a></li></p>
-      
-<p>This visualization is meant to view the changes in total resident cases and compare the nursing homes' 2020 and 2021 performance side by side.
-<li><a href="https://msanalytics.github.io/NHDB/UserStory8.html">Total Resident COVID-19 Case Trends between 2020 and 2021</a></li></p>
-</ul>
 
 </body>
 
